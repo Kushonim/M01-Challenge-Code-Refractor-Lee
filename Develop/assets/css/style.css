@@ -15,9 +15,26 @@ body {
     color: #ffffff;
 }
 
+ul {
+    text-align: right;
+    color: #ffffff;
+}
+
+li {
+    position: relative;
+    bottom: 37px;
+    z-index: 10000;
+    display:inline-block;
+    font-size: 25px;
+    margin-right: 150px;
+    background-color: solid rgb(162, 203, 230);
+    padding: 20px solid rgb(162, 203, 230);
+    border: 10px solid rgb(162, 203, 230);
+}
+
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 48px;    
 }
 
 .header h1 .seo {
