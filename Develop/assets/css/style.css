@@ -15,9 +15,27 @@ body {
     color: #ffffff;
 }
 
+ul {
+    text-align: right;
+    color: #ffffff;
+}
+
+li {
+    position: relative;
+    bottom: 60px;
+    z-index: 10000;
+    display:inline-block;
+    font-size: 21px;
+    margin-right: 150px;
+    margin: 10px;
+    /* background-color: solid rgb(162, 203, 230); */
+    padding: 10px;
+    border: 5px solid rgb(162, 203, 230);
+}
+
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 48px;    
 }
 
 .header h1 .seo {
@@ -57,6 +75,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    
 }
 
 .float-left {
