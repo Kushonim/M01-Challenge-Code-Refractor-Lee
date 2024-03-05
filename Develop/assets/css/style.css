@@ -22,14 +22,15 @@ ul {
 
 li {
     position: relative;
-    bottom: 37px;
+    bottom: 60px;
     z-index: 10000;
     display:inline-block;
-    font-size: 25px;
+    font-size: 21px;
     margin-right: 150px;
-    background-color: solid rgb(162, 203, 230);
-    padding: 20px solid rgb(162, 203, 230);
-    border: 10px solid rgb(162, 203, 230);
+    margin: 10px;
+    /* background-color: solid rgb(162, 203, 230); */
+    padding: 10px;
+    border: 5px solid rgb(162, 203, 230);
 }
 
 .header h1 {
@@ -74,6 +75,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    
 }
 
 .float-left {
