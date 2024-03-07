@@ -9,7 +9,8 @@ working through GitHub, GitBash, and VS Code.
 
 Executing program
 How to run the program:
-Simply run the index.html file through your browser or access the webpage here: 
+Simply run the index.html file through your browser or access the webpage with the provided URL.
+Deployed URL: https://kushonim.github.io/M01-Challenge-Code-Refractor-Lee/
 
 Author
 Kushonim
