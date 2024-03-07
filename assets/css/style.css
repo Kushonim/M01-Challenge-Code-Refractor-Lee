@@ -21,6 +21,7 @@ ul {
 }
 
 li {
+    /* Repositions navigation links to be more visible and easier to access. */
     position: relative;
     bottom: 63px;
     z-index: 10000;
@@ -28,7 +29,6 @@ li {
     font-size: 21px;
     margin-right: 150px;
     margin: 10px;
-    /* background-color: solid rgb(162, 203, 230); */
     padding: 10px;
     border: 5px solid rgb(227, 229, 231);
 }
